@@ -4,7 +4,7 @@
     Fungsi dengan return value = fungsi yang mengembalikan suatu nilai, nilai yang dikembalikan berupa bilangan real/string
     Fungsi tanpa parameter dan return value = fungsi yang biasanya digunakan untuk menampilkan tampilan tanpa perlu melakukan pengembalian nilai
     Fungsi dengan parameter defult = default diberi di parameter, jika parameter tidak memiliki nilai inputan
-3).
+3). Kode Program pada latihan 3 salah karena echo memanggil luas lingkaran. Pada program menghitung luas dan volume kubus menggunakan fungsi dengan parameter, dengan sisi sebagai parameternya
 
 
 latihan 1
@@ -14,7 +14,7 @@ latihan 1.2
 latihan 2
 ![alt text](https://github.com/KadekJ/modul_5/blob/master/latihan%202.png)
 latihan 3
-![alt text]()
+![alt text](https://github.com/KadekJ/modul_5/blob/master/lat%203.png)
 latihan 4
 ![alt text](https://github.com/KadekJ/modul_5/blob/master/index.png)
 ![alt text](https://github.com/KadekJ/modul_5/blob/master/beranda.png)
